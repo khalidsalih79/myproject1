@@ -1,4 +1,2 @@
 2nd year
-Java
-c++
-HTML
+computer networks
